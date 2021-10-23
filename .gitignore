@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+weather-data/weather-denmark.csv
+weather-data/weather-denmark.pkl
+weather-data/weather-denmark-resampled.pkl
+weather-data/weather-denmark.tar.gz
